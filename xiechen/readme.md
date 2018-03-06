@@ -1,0 +1,1 @@
+Implementation of hotel room type prediction using <a href="http://xgboost.readthedocs.io/en/latest/">"Xgboost"</a>library for <a href="https://www.kesci.com/apps/home/competition/58dba69775722d38fa2dfcf6">KeSai competition </a> with  Yang Li and Yu Li. 
